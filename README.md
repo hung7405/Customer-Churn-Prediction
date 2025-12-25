@@ -39,6 +39,7 @@ This project performs an in-depth analysis of customer churn behavior within the
 ## 📂 Project Structure
 * `Customer_Churn_Prediction.ipynb`: Google Colab notebook containing full source code and analysis.
 * `Telco_customer_churn_data.csv`: The raw dataset used for the analysis.
+* `report churn prediction.docx`: Business Report for Customer Churn Prediction project.
 
 ---
 
